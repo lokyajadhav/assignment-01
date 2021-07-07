@@ -1,2 +1,2 @@
-# assignment-01
+# assignment-Day-01
 day-01 assignemnt(printing stars)
