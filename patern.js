@@ -2,5 +2,5 @@
 // Printing Five Stars in a row
 for(i=1;i<=1;i++)
 {
-    console.log("*".repeat(5))
+    console.log("* ".repeat(5))
 }
